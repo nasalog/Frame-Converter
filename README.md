@@ -4,7 +4,8 @@
 
 ![Frame Converter Demo](frame_converter_demo.gif)
 
-
+## UPDATING
+Just replace `FrameConverter.bat` (or the whole folder). Your shortcut keeps working.
 ## SETUP (once)
 1. Unzip this folder somewhere permanent, e.g. `C:\Tools\FrameConverter` (keep all the files together: the two `.cube` files are needed for EXR).
 2. Double-click `Install_Desktop_Icon.bat`. A "Frame Converter" icon appears on your Desktop. If you move the folder later, just run it again.
